@@ -1,16 +1,18 @@
-### Hi there 👋
+# Jefferson Antonis
 
-<!--
-**jeffAntonis/jeffAntonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer - Node/Nest.js - React.js/Next.js - React Native - Vue.js.
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Jefferson%Antonis-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeffAntonis/)](https://www.linkedin.com/in/jeffAntonis/) 
+[![Gmail Badge](https://img.shields.io/badge/-antunis356@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:antunis356@gmail.com)](mailto:antunis356@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Sou desenvolvedor Full-Stack especializado em desenvolvimento Front-End e Back-End para aplicativos Web e Mobile. Sou animado por desafios e por aprender novos conceitos de mercado e negócios
+
+
+Stack Principal: React.js/Next.js, React Native e Node.js/Nest.js
+
+
+Outras Tecnologias:
+- Pwa
+- Code Push
+- Electron
