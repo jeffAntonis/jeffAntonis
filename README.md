@@ -15,3 +15,5 @@ Atualmente tenho investido meus esforços em arquitetura de software, estudando 
 Minha atual stack de trabalho é a do Node.js, contudo não me limito a uma única linguagem, não vejo problema em aprender uma nova tecnologia.
 
 Stack Principal: React.js/Next.js, React Native e Node.js/Nest.js
+
+<img src="https://github-readme-stats.vercel.app/api?username=jeffAntonis&show_icons=true&count_private=true&theme=dark" width="350">
